@@ -1,4 +1,4 @@
-package com.peter.amisy.e_commerce_api.config;
+package com.peter.amisy.e_commerce_api.config.auth;
 
 
 import com.peter.amisy.e_commerce_api.repository.UserRepository;
