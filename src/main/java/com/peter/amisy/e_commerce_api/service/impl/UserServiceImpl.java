@@ -1,7 +1,7 @@
 package com.peter.amisy.e_commerce_api.service.impl;
 
 
-import com.peter.amisy.e_commerce_api.config.JwtUtils;
+import com.peter.amisy.e_commerce_api.config.auth.JwtUtils;
 import com.peter.amisy.e_commerce_api.dto.AuthenticationRequest;
 import com.peter.amisy.e_commerce_api.dto.AuthenticationResponse;
 import com.peter.amisy.e_commerce_api.dto.UserDto;

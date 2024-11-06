@@ -3,7 +3,6 @@ package com.peter.amisy.e_commerce_api.handler;
 
 import com.peter.amisy.e_commerce_api.exception.OperationNonPermittedException;
 import com.peter.amisy.e_commerce_api.exception.ObjectValidationException;
-import com.peter.amisy.e_commerce_api.validator.ObjectsValidator;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
